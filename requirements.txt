@@ -1,0 +1,6 @@
+jupyterlab~=2.2.8
+pypeloton~=0.1.1
+pandas~=1.1.2
+plotly-express~=0.4.1
+numpy~=1.19.2
+python-dotenv~=0.14.0
