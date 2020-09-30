@@ -4,3 +4,5 @@ pandas~=1.1.2
 plotly-express~=0.4.1
 numpy~=1.19.2
 python-dotenv~=0.14.0
+nbstripout==0.2.5
+nbconvert==6.0.6
