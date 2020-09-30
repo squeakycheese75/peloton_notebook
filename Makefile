@@ -15,4 +15,4 @@ create-local-env:
 
 base-requirements:
 	pip3 install --upgrade pip
-	pip3 install -r ./api/requirements/base.txt
+	pip3 install -r requirements.txt
