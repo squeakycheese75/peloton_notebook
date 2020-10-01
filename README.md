@@ -19,6 +19,10 @@ From your desired Python envirnment:
 3. `cd notebooks`.
 4. `jupyter notebook`.
 
+## Screen grabs
+
+![Alt text](/screens/plot_bpm_output.png?raw=true 'Sample BPM v Output')
+
 ## Runbook session data
 
 I've included the nbstriout library to the repo to ensure that notebook data is stripped out at commit stage. Don't want accidentally
