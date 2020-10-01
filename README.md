@@ -18,3 +18,8 @@ From your desired Python envirnment:
 2. Update the .env file with your peloton username and password.
 3. `cd notebooks`.
 4. `jupyter notebook`.
+
+## Runbook session data
+
+I've included the nbstriout library to the repo to ensure that notebook data is stripped out at commit stage. Don't want accidentally
+slipping session data onto GitHub. Fork after these changes.
