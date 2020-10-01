@@ -21,7 +21,9 @@ From your desired Python envirnment:
 
 ## Screen grabs
 
-![Alt text](/screens/plot_bpm_output.png?raw=true 'Sample BPM v Output')
+![Alt text](/screens/plot_bpm_output.png?raw=true 'BPM v output')
+![Alt text](/screens/plot_workout_output.png?raw=true 'Workout output')
+![Alt text](/screens/plot_workout_pos.png?raw=true 'Workout utput avr position')
 
 ## Runbook session data
 
